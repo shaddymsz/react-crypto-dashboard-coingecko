@@ -37,16 +37,15 @@ npm install
 ```
 
 ### Must-Have Packages
-antd (UI framework for React)
-react (front-end)
-react-router-dom (routing for React)
-chartjs (charting library)
-axios (API calls)
-Sources
-CoinGecko API
-React documentation
-Ant Design Documentation
-Steps to Reproduce
+-  antd (UI framework for React)
+-  react (front-end)
+-  react-router-dom (routing for React)
+-  chartjs (charting library)
+-  axios (API calls)
+-  Sources
+-  CoinGecko API
+-  React documentation
+-  Ant Design Documentation
 
 To run the project locally, follow these steps:
 
